@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_f577824749ef4f27b64cde017b20c766" kind="dir">
+    <compoundname>/home/mushirahmed/Sandhi_Blocks/gr-exponent/include/</compoundname>
+    <innerdir refid="dir_a5ae1f2bcde82574113d8703f7b78943">/home/mushirahmed/Sandhi_Blocks/gr-exponent/include/exponent/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/mushirahmed/Sandhi_Blocks/gr-exponent/include/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<block>
+  <name>powernew</name>
+  <key>power1_powernew</key>
+  <category>power</category>
+  <import>import power1</import>
+  <make>power1.powernew()</make>
+   <param>
+		<name>Vec Length</name>
+		<key>vlen</key>
+		<value>1</value>
+		<type>int</type>
+	</param>
+	
+	<check>$vlen &gt; 0</check>
+  <sink>
+    <name>in0</name>
+    <type>float</type>
+    <vlen>$vlen</vlen>
+  </sink>
+   <sink>
+    <name>in1</name>
+    <type>float</type>
+    <vlen>$vlen</vlen>
+  </sink>
+
+  <!-- Make one 'source' node per output. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <source>
+    <name>out</name>
+    <type>float</type>
+    <vlen>$vlen</vlen>
+  </source>
+</block>

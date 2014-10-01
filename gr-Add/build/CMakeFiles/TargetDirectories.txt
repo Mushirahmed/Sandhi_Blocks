@@ -1,0 +1,9 @@
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/swig/CMakeFiles/_Add_swig.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/swig/CMakeFiles/_Add_swig_doc_tag.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/swig/CMakeFiles/_Add_swig_swig_tag.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/lib/CMakeFiles/gnuradio-Add.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/python/CMakeFiles/pygen_python_c29e6.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/swig/CMakeFiles/pygen_swig_b65d4.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/lib/CMakeFiles/test-Add.dir
+/home/mushirahmed/Sandhi_Blocks/gr-Add/build/CMakeFiles/uninstall.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,_exponent_swig.so -o _exponent_swig.so CMakeFiles/_exponent_swig.dir/exponent_swigPYTHON_wrap.cxx.o -lpython2.7 ../lib/libgnuradio-exponent.so -lboost_filesystem-mt -lboost_system-mt /usr/local/lib/libgruel.so /usr/local/lib/libgnuradio-core.so -Wl,-rpath,/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/lib:/usr/local/lib: 

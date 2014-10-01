@@ -1,0 +1,9 @@
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/swig/CMakeFiles/_exponent_swig.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/swig/CMakeFiles/_exponent_swig_doc_tag.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/swig/CMakeFiles/_exponent_swig_swig_tag.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/lib/CMakeFiles/gnuradio-exponent.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/python/CMakeFiles/pygen_python_bffae.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/swig/CMakeFiles/pygen_swig_5e203.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/lib/CMakeFiles/test-exponent.dir
+/home/mushirahmed/Sandhi_Blocks/gr-exponent/build/CMakeFiles/uninstall.dir

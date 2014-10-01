@@ -1,0 +1,9 @@
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/swig/CMakeFiles/_power1_swig.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/swig/CMakeFiles/_power1_swig_doc_tag.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/swig/CMakeFiles/_power1_swig_swig_tag.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/lib/CMakeFiles/gnuradio-power1.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/python/CMakeFiles/pygen_python_1fda8.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/swig/CMakeFiles/pygen_swig_014af.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/lib/CMakeFiles/test-power1.dir
+/home/mushirahmed/Sandhi_Blocks/gr-power1/build/CMakeFiles/uninstall.dir

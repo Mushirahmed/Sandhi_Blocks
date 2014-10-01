@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libgnuradio-power1.so -o libgnuradio-power1.so CMakeFiles/gnuradio-power1.dir/powernew_impl.cc.o -lboost_filesystem-mt -lboost_system-mt /usr/local/lib/libgruel.so /usr/local/lib/libgnuradio-core.so -Wl,-rpath,/usr/local/lib: 

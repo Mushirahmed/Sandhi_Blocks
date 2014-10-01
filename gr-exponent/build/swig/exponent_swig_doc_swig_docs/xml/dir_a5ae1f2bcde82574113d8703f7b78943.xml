@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_a5ae1f2bcde82574113d8703f7b78943" kind="dir">
+    <compoundname>/home/mushirahmed/Sandhi_Blocks/gr-exponent/include/exponent/</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="power__ff_8h">power_ff.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/mushirahmed/Sandhi_Blocks/gr-exponent/include/exponent/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,13 @@
+/usr/local/include/exponent/api.h
+/usr/local/include/exponent/power_ff.h
+/usr/local/lib/libgnuradio-exponent.so
+/usr/local/lib/python2.7/dist-packages/exponent/_exponent_swig.so
+/usr/local/lib/python2.7/dist-packages/exponent/exponent_swig.py
+/usr/local/lib/python2.7/dist-packages/exponent/exponent_swig.pyc
+/usr/local/lib/python2.7/dist-packages/exponent/exponent_swig.pyo
+/usr/local/include/exponent/exponent/swig/exponent_swig.i
+/usr/local/include/exponent/exponent/swig/exponent_swig_doc.i
+/usr/local/lib/python2.7/dist-packages/exponent/__init__.py
+/usr/local/lib/python2.7/dist-packages/exponent/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/exponent/__init__.pyo
+/usr/local/share/gnuradio/grc/blocks/exponent_power_ff.xml
