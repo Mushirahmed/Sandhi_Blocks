@@ -4,7 +4,9 @@
   <key>exp_expo</key>
   <category>Exponential</category>
   <import>import gnuradio.expo</import>
-  <make>gnuradio.expo.expo()</make>
+  <make>gnuradio.expo.expo()
+self.$(id).set_parameters($q,$e,$wd)
+  </make>
   <!-- Make one 'param' node for every Parameter you want settable from the GUI.
        Sub-nodes:
        * name
@@ -21,6 +23,24 @@
        * type
        * vlen
        * optional (set to 1 for optional inputs) -->
+       <param>
+        <name>Sigma Value</name>
+        <key>q</key>
+        <value>0</value>
+        <type>real</type>
+    </param>
+    <param>
+        <name>Zita Value</name>
+        <key>e</key>
+        <value>0</value>
+        <type>real</type>
+    </param>
+    <param>
+        <name>Frequency</name>
+        <key>wd</key>
+        <value>0</value>
+        <type>real</type>
+    </param>
   <sink>
     <name>in</name>
     <type>float</type>
@@ -35,4 +55,9 @@
     <name>out</name>
     <type>float</type>
   </source>
+  <doc>
+	  Enter the sigma value real value.
+	  Enter the zita value damping factor(i.e less than 0,greater than 0 or equal to zero)
+	  Enter the damping frequency
+ </doc>
 </block>

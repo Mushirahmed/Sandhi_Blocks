@@ -35,7 +35,7 @@ class expo(gras.Block):
     def work(self, input_items, output_items):
         in0 = input_items[0]
         out = output_items[0]
-        out[0:1] = numpy.exp(in0[0:1])
+        out[0:1] =-numpy.exp(in0[0:1])
         self.consume(0,1)
         self.produce(0,1)
         #return len(output_items[0])
