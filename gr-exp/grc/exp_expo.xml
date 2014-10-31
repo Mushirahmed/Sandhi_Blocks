@@ -5,7 +5,7 @@
   <category>Exponential</category>
   <import>import gnuradio.expo</import>
   <make>gnuradio.expo.expo()
-self.$(id).set_parameters($q,$e,$wd)
+self.$(id).set_parameters($g,$a,$b)
   </make>
   <!-- Make one 'param' node for every Parameter you want settable from the GUI.
        Sub-nodes:
@@ -24,20 +24,20 @@ self.$(id).set_parameters($q,$e,$wd)
        * vlen
        * optional (set to 1 for optional inputs) -->
        <param>
-        <name>Sigma Value</name>
-        <key>q</key>
+        <name>Gamma</name>
+        <key>g</key>
         <value>0</value>
         <type>real</type>
     </param>
     <param>
-        <name>Zita Value</name>
-        <key>e</key>
+        <name>Alpha</name>
+        <key>a</key>
         <value>0</value>
         <type>real</type>
     </param>
     <param>
-        <name>Frequency</name>
-        <key>wd</key>
+        <name>Beta</name>
+        <key>b</key>
         <value>0</value>
         <type>real</type>
     </param>
